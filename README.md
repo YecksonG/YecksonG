@@ -7,7 +7,7 @@
   <p>Construyendo aplicaciones web end-to-end con <b>React, Next.js, TypeScript y Supabase</b>.</p>
 </div>
 
-
+---
 
 ### 🚀 Sobre mí
 
@@ -49,13 +49,10 @@ Construí de cero un **Sistema POS Full-Stack y Plataforma de Delivery** en tiem
 
 ---
 
-
----
-
 ### 📫 Contáctame
 
-- 💼 **LinkedIn:** www.linkedin.com/in/yeckson-gonzalez-3b1132317
-- 📧 **Correo:** yecksongonza2002@gmail.com
+- 💼 **LinkedIn:** [www.linkedin.com/in/yeckson-gonzalez-3b1132317](https://www.linkedin.com/in/yeckson-gonzalez-3b1132317)
+- 📧 **Correo:** [yecksongonza2002@gmail.com](mailto:yecksongonza2002@gmail.com)
 
 <br/>
 <div align="center">
