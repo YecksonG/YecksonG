@@ -7,7 +7,7 @@
   <p>Construyendo aplicaciones web end-to-end con <b>React, Next.js, TypeScript y Supabase</b>.</p>
 </div>
 
----
+
 
 ### 🚀 Sobre mí
 
@@ -49,12 +49,6 @@ Construí de cero un **Sistema POS Full-Stack y Plataforma de Delivery** en tiem
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YecksonG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YecksonG&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 ---
 
