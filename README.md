@@ -60,8 +60,8 @@ Construí de cero un **Sistema POS Full-Stack y Plataforma de Delivery** en tiem
 
 ### 📫 Contáctame
 
-- 💼 **LinkedIn:** [Añade tu enlace aquí]
-- 📧 **Correo:** [Añade tu correo aquí]
+- 💼 **LinkedIn:** www.linkedin.com/in/yeckson-gonzalez-3b1132317
+- 📧 **Correo:** yecksongonza2002@gmail.com
 
 <br/>
 <div align="center">
